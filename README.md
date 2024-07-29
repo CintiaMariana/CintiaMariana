@@ -1,15 +1,11 @@
 ## Olá pessoal 👋
 
-<!--
 
-Here are some ideas to get you started:
-
-- 🔭 Atualmente estou trabalhando na Rede Dom Pedro de Postos
+- 🔭 Atualmente estou trabalhando na Rede Dom Pedro de Postos como Analista em Gestão da Tecnologia
 
 ## Estou aprendendo
 
-<img loading="lazy" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="40" height="40"/> 
-<img loading="lazy" src="https://w7.pngwing.com/pngs/788/651/png-transparent-code-development-logo-nodejs-logos-icon-thumbnail.png" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="40" height="40"/> <img loading="lazy" src="https://w7.pngwing.com/pngs/788/651/png-transparent-code-development-logo-nodejs-logos-icon-thumbnail.png" width="40" height="40"/>
 
 ## Contatos:
 
@@ -25,4 +21,4 @@ Here are some ideas to get you started:
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=CintiaMariana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
--->
+
