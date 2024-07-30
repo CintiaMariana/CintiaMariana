@@ -1,12 +1,17 @@
 ## Olá pessoal 👋
 
+Tenho 28 anos, sou de Minas Gerais e sou apaixonada por programação e cachorros 🐶
 
-- 🖥️ Atualmente trabalho na Rede Dom Pedro de Postos como Analista em Gestão da Tecnologia
-- 📚 Cursando o 8º período em Sistemas da Informação na Universidade do Vale do Sapucaí (UNIVÁS). 
+Sou iniciante no universo da programação, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! ❤
+
+
+🖥️ Atualmente trabalho na Rede Dom Pedro de Postos como Analista em Gestão da Tecnologia
+
+📚 Cursando o 8º período em Sistemas da Informação na Universidade do Vale do Sapucaí (UNIVÁS). 
 
 ## Estou aprendendo
 
-<img loading="lazy" src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" width="40" height="40"/> <img loading="lazy" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="40" height="40"/> <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40" height="40"/> <img loading="lazy" src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-1174965.png" width="40" height="40"/> <img loading="lazy" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" width="40" height="40"/> <img loading="lazy" src="https://w7.pngwing.com/pngs/578/816/png-transparent-java-class-file-java-platform-standard-edition-java-development-kit-java-runtime-environment-coffee-jar-text-class-orange.png" width="40" height="40"/>
+<img loading="lazy" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="40" height="40"/> <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40" height="40"/> <img loading="lazy" src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-1174965.png" width="40" height="40"/> <img loading="lazy" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" width="40" height="40"/> <img loading="lazy" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="40" height="40"/>
 
 ## Contatos:
 
