@@ -11,7 +11,7 @@ Sou iniciante no universo da programação, e quanto mais eu aprendo e passo rai
 
 ## Estou aprendendo
 
-<img loading="lazy" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="40" height="40"/> <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40" height="40"/> <img loading="lazy" src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-1174965.png" width="40" height="40"/> <img loading="lazy" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" width="40" height="40"/> <img loading="lazy" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="40" height="40"/>
+<img loading="lazy" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="40" height="40"/> <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40" height="40"/> <img loading="lazy" src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-1174965.png" width="40" height="40"/> <img loading="lazy" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" width="40" height="40"/> <img loading="lazy" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="40" height="40"/> <img loading="lazy" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" height="40"/> 
 
 ## Contatos:
 
