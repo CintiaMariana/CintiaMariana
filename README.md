@@ -1,13 +1,13 @@
 ## Olá pessoal 👋
 
-Tenho 28 anos, sou de Minas Gerais e sou apaixonada por programação e cachorros 🐶
+Tenho 29 anos, sou de Minas Gerais e sou apaixonada por programação e cachorros 🐶
 
 Sou iniciante no universo da programação, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! ❤
 
 
 🖥️ Atualmente trabalho na Rede Dom Pedro de Postos como Analista em Gestão da Tecnologia
 
-📚 Cursando o 8º período em Sistemas da Informação na Universidade do Vale do Sapucaí (UNIVÁS). 
+📚 Formada em Sistemas da Informação na Universidade do Vale do Sapucaí (UNIVÁS). 
 
 ## Estou aprendendo
 
