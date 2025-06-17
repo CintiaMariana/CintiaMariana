@@ -47,7 +47,7 @@ Sou iniciante no universo da programação, e quanto mais aprendo (mesmo quando 
 ## Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeuUsuarioGitHub&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CintiaMariana&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
